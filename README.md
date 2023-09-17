@@ -49,11 +49,10 @@ The following technologies were used for the application:
 - Heroku
 
 ## Credits and References
-- Codes and inspiration from: 
+- Codes and inspiration from: https://github.com/cynthiamory/Oh-JATE
 - Starter code from: https://github.com/coding-boot-camp/cautious-meme
 - Instructional team
-- Insomnia
-- 
+-  
   
 ## License
 
