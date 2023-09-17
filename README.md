@@ -1,4 +1,4 @@
-# text-editor-meeting-PWA-criteria
+# text-editor-progressive-web-applications
 
 A text editor that runs in the browser and meets the Progressive Web Applications (PWA) criteria.
 
