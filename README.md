@@ -22,10 +22,15 @@ I was motivated to create a text editor that runs in the browser and accessible 
 
 ## Link to the Deployed Application
 
-[https://dashboard.heroku.com/apps/ibrahim-text-editor/resources](https://dashboard.heroku.com/apps/ibrahim-text-editor/)
+https://ibrahim-text-editor-ab74e34bc190.herokuapp.com/
 
 **screenshot of the application:** 
 ![image](https://github.com/IbrahimAllison/text-editor-progressive-web-applications/assets/116689797/46a6aa9f-4a2f-4a71-8dae-0ff7c55b0030)
+
+![image](https://github.com/IbrahimAllison/text-editor-progressive-web-applications/assets/116689797/7d3593ea-7aa4-4ff6-8777-1b8a3869ee78)
+
+![image](https://github.com/IbrahimAllison/text-editor-progressive-web-applications/assets/116689797/44286a8a-ee47-4c33-9b61-2e5e91e94688)
+
 
 
 ## Installation and Usage
