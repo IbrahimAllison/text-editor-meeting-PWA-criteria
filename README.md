@@ -14,16 +14,18 @@ A text editor that runs in the browser and meets the Progressive Web Application
 
 ## Description
 
+The challenge is about building a text editor that runs in the browser. "the app will be a single-page application that meets the PWA criteria. Additionally, it features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application also function offline".
 
 ## Motivation for the Project
 
+I was motivated to create a text editor that runs in the browser and accessible offline when I am not connected to the Internet. It is interesting to see how the text editor is implemented from the client, server, and the root directory sides of the application.
 
 ## Link to the Deployed Application
 
-
+https://dashboard.heroku.com/apps/ibrahim-text-editor/resources
 
 **screenshot of the application:** 
-
+![image](https://github.com/IbrahimAllison/text-editor-progressive-web-applications/assets/116689797/46a6aa9f-4a2f-4a71-8dae-0ff7c55b0030)
 
 
 ## Installation and Usage
@@ -31,13 +33,17 @@ A text editor that runs in the browser and meets the Progressive Web Application
 Below is an high level overview on how to execute this application.
 
 Steps:
-1.  Create the necessary dependencies
-2.	Run npm init -y
-3.	Run npm i sequelize
-4.	Run npm i express
-5.  Run npm i nodemon
-7.	Run npm i sequelize
-8.	Run npm start.
+1. Create and run the necessary dependencies
+2.	start the application by running npm run startdev
+3.	Test the application on your PC using node server.js and test the application in your browser using http://localhost:PORT 3000
+4. Initialize git and commit using the command line:
+5. git init
+6. git add -A
+7. git status
+8. git commit -m "initial commit"
+9. heroku create
+10. git push heroku main (after login to heroku.com and created the app for your deployment).
+11. Heroku open
 
    
 ## Technologies Used
@@ -47,12 +53,14 @@ The following technologies were used for the application:
 - Nodemon
 - VS Code
 - Heroku
+- webpack
+- NodeJS, etc.
 
 ## Credits and References
 - Codes and inspiration from: https://github.com/cynthiamory/Oh-JATE
 - Starter code from: https://github.com/coding-boot-camp/cautious-meme
-- Instructional team
--  
+- Instructional team and existing class resources
+- My previous notes on heroku installation
   
 ## License
 
