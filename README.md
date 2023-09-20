@@ -22,7 +22,7 @@ I was motivated to create a text editor that runs in the browser and accessible 
 
 ## Link to the Deployed Application
 
-https://dashboard.heroku.com/apps/ibrahim-text-editor/resources
+[https://dashboard.heroku.com/apps/ibrahim-text-editor/resources](https://dashboard.heroku.com/apps/ibrahim-text-editor/)
 
 **screenshot of the application:** 
 ![image](https://github.com/IbrahimAllison/text-editor-progressive-web-applications/assets/116689797/46a6aa9f-4a2f-4a71-8dae-0ff7c55b0030)
